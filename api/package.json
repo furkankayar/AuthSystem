@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-oauth2-server": "^2.4.0",
+    "nodemailer": "^6.3.1",
+    "nodemailer-smtp-pool": "^2.8.3",
+    "pg": "^7.12.1",
+    "sequelize": "^5.19.6",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
