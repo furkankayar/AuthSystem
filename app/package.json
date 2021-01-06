@@ -35,7 +35,7 @@
     "@coreui/vue-chartjs": "^1.0.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/vue-fontawesome": "^0.1.9",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-transform-regenerator": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.4.1",
